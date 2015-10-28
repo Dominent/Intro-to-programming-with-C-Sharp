@@ -1,0 +1,6 @@
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\bin\Debug\TimeDateCSharp.exe.config
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\bin\Debug\TimeDateCSharp.exe
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\bin\Debug\TimeDateCSharp.pdb
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\obj\Debug\TimeDateCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\obj\Debug\TimeDateCSharp.exe
+B:\IntroCSharp\TimeDateCSharp\TimeDateCSharp\obj\Debug\TimeDateCSharp.pdb

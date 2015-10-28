@@ -1,0 +1,2 @@
+B:\IntroCSharp\QuotedAndNotStringCSharp\QuotedAndNotStringCSharp\bin\Debug\QuotedAndNotStringCSharp.exe.config
+B:\IntroCSharp\2_9_QuotedAndNotStringCSharp\QuotedAndNotStringCSharp\bin\Debug\QuotedAndNotStringCSharp.exe.config

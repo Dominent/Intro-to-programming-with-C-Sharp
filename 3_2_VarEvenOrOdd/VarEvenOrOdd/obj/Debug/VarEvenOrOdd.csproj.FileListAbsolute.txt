@@ -1,0 +1,6 @@
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\bin\Debug\VarEvenOrOdd.exe.config
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\bin\Debug\VarEvenOrOdd.exe
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\bin\Debug\VarEvenOrOdd.pdb
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\obj\Debug\VarEvenOrOdd.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\obj\Debug\VarEvenOrOdd.exe
+B:\IntroCSharp\VarEvenOrOdd\VarEvenOrOdd\obj\Debug\VarEvenOrOdd.pdb

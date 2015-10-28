@@ -1,0 +1,9 @@
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\bin\Debug\DeclareVarCSharp.exe.config
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\bin\Debug\DeclareVarCSharp.exe
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\bin\Debug\DeclareVarCSharp.pdb
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\obj\Debug\DeclareVarCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\obj\Debug\DeclareVarCSharp.exe
+B:\IntroCSharp\DeclareVarCSharp\DeclareVarCSharp\obj\Debug\DeclareVarCSharp.pdb
+B:\IntroCSharp\2_1_DeclareVarCSharp\DeclareVarCSharp\bin\Debug\DeclareVarCSharp.exe.config
+B:\IntroCSharp\2_1_DeclareVarCSharp\DeclareVarCSharp\obj\Debug\DeclareVarCSharp.exe
+B:\IntroCSharp\2_1_DeclareVarCSharp\DeclareVarCSharp\obj\Debug\DeclareVarCSharp.pdb

@@ -1,0 +1,5 @@
+B:\IntroCSharp\BoolCSharp\BoolCSharp\bin\Debug\BoolCSharp.exe.config
+B:\IntroCSharp\BoolCSharp\BoolCSharp\bin\Debug\BoolCSharp.exe
+B:\IntroCSharp\BoolCSharp\BoolCSharp\bin\Debug\BoolCSharp.pdb
+B:\IntroCSharp\BoolCSharp\BoolCSharp\obj\Debug\BoolCSharp.exe
+B:\IntroCSharp\BoolCSharp\BoolCSharp\obj\Debug\BoolCSharp.pdb

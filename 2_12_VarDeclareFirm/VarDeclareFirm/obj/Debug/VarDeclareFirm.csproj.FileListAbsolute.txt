@@ -1,0 +1,5 @@
+B:\IntroCSharp\VarDeclareFirm\VarDeclareFirm\bin\Debug\VarDeclareFirm.exe.config
+B:\IntroCSharp\VarDeclareFirm\VarDeclareFirm\bin\Debug\VarDeclareFirm.exe
+B:\IntroCSharp\VarDeclareFirm\VarDeclareFirm\bin\Debug\VarDeclareFirm.pdb
+B:\IntroCSharp\VarDeclareFirm\VarDeclareFirm\obj\Debug\VarDeclareFirm.exe
+B:\IntroCSharp\VarDeclareFirm\VarDeclareFirm\obj\Debug\VarDeclareFirm.pdb

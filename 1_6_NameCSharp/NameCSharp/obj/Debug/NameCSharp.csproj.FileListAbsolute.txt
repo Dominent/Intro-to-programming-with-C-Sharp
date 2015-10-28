@@ -1,0 +1,8 @@
+B:\IntroCSharp\NameCSharp\NameCSharp\bin\Debug\NameCSharp.exe.config
+B:\IntroCSharp\NameCSharp\NameCSharp\bin\Debug\NameCSharp.exe
+B:\IntroCSharp\NameCSharp\NameCSharp\bin\Debug\NameCSharp.pdb
+B:\IntroCSharp\NameCSharp\NameCSharp\obj\Debug\NameCSharp.exe
+B:\IntroCSharp\NameCSharp\NameCSharp\obj\Debug\NameCSharp.pdb
+B:\IntroCSharp\1_6_NameCSharp\NameCSharp\bin\Debug\NameCSharp.exe.config
+B:\IntroCSharp\1_6_NameCSharp\NameCSharp\obj\Debug\NameCSharp.exe
+B:\IntroCSharp\1_6_NameCSharp\NameCSharp\obj\Debug\NameCSharp.pdb

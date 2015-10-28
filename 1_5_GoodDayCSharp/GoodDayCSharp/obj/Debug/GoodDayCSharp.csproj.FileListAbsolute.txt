@@ -1,0 +1,9 @@
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\bin\Debug\GoodDayCSharp.exe.config
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\bin\Debug\GoodDayCSharp.exe
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\bin\Debug\GoodDayCSharp.pdb
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\obj\Debug\GoodDayCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\obj\Debug\GoodDayCSharp.exe
+B:\IntroCSharp\GoodDayCSharp\GoodDayCSharp\obj\Debug\GoodDayCSharp.pdb
+B:\IntroCSharp\1_5_GoodDayCSharp\GoodDayCSharp\bin\Debug\GoodDayCSharp.exe.config
+B:\IntroCSharp\1_5_GoodDayCSharp\GoodDayCSharp\obj\Debug\GoodDayCSharp.exe
+B:\IntroCSharp\1_5_GoodDayCSharp\GoodDayCSharp\obj\Debug\GoodDayCSharp.pdb

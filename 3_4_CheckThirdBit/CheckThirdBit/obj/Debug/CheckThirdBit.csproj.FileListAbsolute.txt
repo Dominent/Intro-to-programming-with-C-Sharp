@@ -1,0 +1,6 @@
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\bin\Debug\CheckThirdBit.exe.config
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\obj\Debug\CheckThirdBit.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\bin\Debug\CheckThirdBit.exe
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\bin\Debug\CheckThirdBit.pdb
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\obj\Debug\CheckThirdBit.exe
+B:\IntroCSharp\CheckThirdBit\CheckThirdBit\obj\Debug\CheckThirdBit.pdb

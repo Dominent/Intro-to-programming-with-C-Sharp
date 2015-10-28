@@ -1,0 +1,5 @@
+B:\IntroCSharp\StringConcCSharp\StringConcCSharp\bin\Debug\StringConcCSharp.exe.config
+B:\IntroCSharp\StringConcCSharp\StringConcCSharp\bin\Debug\StringConcCSharp.exe
+B:\IntroCSharp\StringConcCSharp\StringConcCSharp\bin\Debug\StringConcCSharp.pdb
+B:\IntroCSharp\StringConcCSharp\StringConcCSharp\obj\Debug\StringConcCSharp.exe
+B:\IntroCSharp\StringConcCSharp\StringConcCSharp\obj\Debug\StringConcCSharp.pdb

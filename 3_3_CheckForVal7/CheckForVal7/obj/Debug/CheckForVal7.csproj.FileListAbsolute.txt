@@ -1,0 +1,5 @@
+B:\IntroCSharp\CheckForVal7\CheckForVal7\bin\Debug\CheckForVal7.exe.config
+B:\IntroCSharp\CheckForVal7\CheckForVal7\bin\Debug\CheckForVal7.exe
+B:\IntroCSharp\CheckForVal7\CheckForVal7\bin\Debug\CheckForVal7.pdb
+B:\IntroCSharp\CheckForVal7\CheckForVal7\obj\Debug\CheckForVal7.exe
+B:\IntroCSharp\CheckForVal7\CheckForVal7\obj\Debug\CheckForVal7.pdb

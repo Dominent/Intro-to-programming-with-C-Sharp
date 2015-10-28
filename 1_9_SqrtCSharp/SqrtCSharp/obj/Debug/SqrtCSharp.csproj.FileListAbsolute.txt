@@ -1,0 +1,5 @@
+B:\IntroCSharp\SqrtCSharp\SqrtCSharp\bin\Debug\SqrtCSharp.exe.config
+B:\IntroCSharp\SqrtCSharp\SqrtCSharp\bin\Debug\SqrtCSharp.exe
+B:\IntroCSharp\SqrtCSharp\SqrtCSharp\bin\Debug\SqrtCSharp.pdb
+B:\IntroCSharp\SqrtCSharp\SqrtCSharp\obj\Debug\SqrtCSharp.exe
+B:\IntroCSharp\SqrtCSharp\SqrtCSharp\obj\Debug\SqrtCSharp.pdb

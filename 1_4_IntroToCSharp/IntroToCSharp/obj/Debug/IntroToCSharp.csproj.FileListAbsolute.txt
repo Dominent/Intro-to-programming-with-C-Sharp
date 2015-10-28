@@ -1,0 +1,9 @@
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe.config
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.pdb
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.exe
+B:\IntroCSharp\IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.pdb
+B:\IntroCSharp\1_4_IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe.config
+B:\IntroCSharp\1_4_IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.exe
+B:\IntroCSharp\1_4_IntroToCSharp\IntroToCSharp\obj\Debug\IntroToCSharp.pdb

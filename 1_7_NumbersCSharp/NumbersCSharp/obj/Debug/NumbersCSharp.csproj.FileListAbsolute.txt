@@ -1,0 +1,8 @@
+B:\IntroCSharp\NumbersCSharp\NumbersCSharp\bin\Debug\NumbersCSharp.exe.config
+B:\IntroCSharp\NumbersCSharp\NumbersCSharp\bin\Debug\NumbersCSharp.exe
+B:\IntroCSharp\NumbersCSharp\NumbersCSharp\bin\Debug\NumbersCSharp.pdb
+B:\IntroCSharp\NumbersCSharp\NumbersCSharp\obj\Debug\NumbersCSharp.exe
+B:\IntroCSharp\NumbersCSharp\NumbersCSharp\obj\Debug\NumbersCSharp.pdb
+B:\IntroCSharp\1_7_NumbersCSharp\NumbersCSharp\bin\Debug\NumbersCSharp.exe.config
+B:\IntroCSharp\1_7_NumbersCSharp\NumbersCSharp\obj\Debug\NumbersCSharp.exe
+B:\IntroCSharp\1_7_NumbersCSharp\NumbersCSharp\obj\Debug\NumbersCSharp.pdb

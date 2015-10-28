@@ -1,0 +1,6 @@
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\bin\Debug\DeclarePrecisionVarCSharp.exe.config
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\bin\Debug\DeclarePrecisionVarCSharp.exe
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\bin\Debug\DeclarePrecisionVarCSharp.pdb
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\obj\Debug\DeclarePrecisionVarCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\obj\Debug\DeclarePrecisionVarCSharp.exe
+B:\IntroCSharp\DeclarePrecisionVarCSharp\DeclarePrecisionVarCSharp\obj\Debug\DeclarePrecisionVarCSharp.pdb

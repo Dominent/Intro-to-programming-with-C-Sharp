@@ -1,0 +1,6 @@
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\bin\Debug\2_10_PrintSymbolHeart.exe.config
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\obj\Debug\2_10_PrintSymbolHeart.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\bin\Debug\2_10_PrintSymbolHeart.exe
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\bin\Debug\2_10_PrintSymbolHeart.pdb
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\obj\Debug\2_10_PrintSymbolHeart.exe
+B:\IntroCSharp\2_10_PrintSymbolHeart\2_10_PrintSymbolHeart\obj\Debug\2_10_PrintSymbolHeart.pdb

@@ -1,0 +1,7 @@
+B:\IntroCSharp\ObjToStringCSharp\ObjToStringCSharp\bin\Debug\ObjToStringCSharp.exe.config
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\bin\Debug\ObjToStringCSharp.exe.config
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\bin\Debug\ObjToStringCSharp.exe
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\bin\Debug\ObjToStringCSharp.pdb
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\obj\Debug\ObjToStringCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\obj\Debug\ObjToStringCSharp.exe
+B:\IntroCSharp\2_8_ObjToStringCSharp\ObjToStringCSharp\obj\Debug\ObjToStringCSharp.pdb

@@ -1,0 +1,9 @@
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\bin\Debug\PrecisionCalcCSharp.exe.config
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\bin\Debug\PrecisionCalcCSharp.exe
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\bin\Debug\PrecisionCalcCSharp.pdb
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\obj\Debug\PrecisionCalcCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\obj\Debug\PrecisionCalcCSharp.exe
+B:\IntroCSharp\PrecisionCalcCSharp\PrecisionCalcCSharp\obj\Debug\PrecisionCalcCSharp.pdb
+B:\IntroCSharp\2_3_PrecisionCalcCSharp\PrecisionCalcCSharp\bin\Debug\PrecisionCalcCSharp.exe.config
+B:\IntroCSharp\2_3_PrecisionCalcCSharp\PrecisionCalcCSharp\obj\Debug\PrecisionCalcCSharp.exe
+B:\IntroCSharp\2_3_PrecisionCalcCSharp\PrecisionCalcCSharp\obj\Debug\PrecisionCalcCSharp.pdb

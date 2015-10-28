@@ -1,0 +1,8 @@
+B:\IntroCSharp\IniCharCSharp\IniCharCSharp\bin\Debug\IniCharCSharp.exe.config
+B:\IntroCSharp\IniCharCSharp\IniCharCSharp\bin\Debug\IniCharCSharp.exe
+B:\IntroCSharp\IniCharCSharp\IniCharCSharp\bin\Debug\IniCharCSharp.pdb
+B:\IntroCSharp\IniCharCSharp\IniCharCSharp\obj\Debug\IniCharCSharp.exe
+B:\IntroCSharp\IniCharCSharp\IniCharCSharp\obj\Debug\IniCharCSharp.pdb
+B:\IntroCSharp\2_5_IniCharCSharp\IniCharCSharp\bin\Debug\IniCharCSharp.exe.config
+B:\IntroCSharp\2_5_IniCharCSharp\IniCharCSharp\obj\Debug\IniCharCSharp.exe
+B:\IntroCSharp\2_5_IniCharCSharp\IniCharCSharp\obj\Debug\IniCharCSharp.pdb

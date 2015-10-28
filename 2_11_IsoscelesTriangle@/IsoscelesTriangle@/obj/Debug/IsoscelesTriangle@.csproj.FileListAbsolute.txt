@@ -1,0 +1,6 @@
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\bin\Debug\IsoscelesTriangle@.exe.config
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\obj\Debug\IsoscelesTriangle@.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\bin\Debug\IsoscelesTriangle@.exe
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\bin\Debug\IsoscelesTriangle@.pdb
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\obj\Debug\IsoscelesTriangle@.exe
+B:\IntroCSharp\IsoscelesTriangle@\IsoscelesTriangle@\obj\Debug\IsoscelesTriangle@.pdb

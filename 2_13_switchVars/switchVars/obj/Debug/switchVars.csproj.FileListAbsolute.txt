@@ -1,0 +1,5 @@
+B:\IntroCSharp\switchVars\switchVars\bin\Debug\switchVars.exe.config
+B:\IntroCSharp\switchVars\switchVars\bin\Debug\switchVars.exe
+B:\IntroCSharp\switchVars\switchVars\bin\Debug\switchVars.pdb
+B:\IntroCSharp\switchVars\switchVars\obj\Debug\switchVars.exe
+B:\IntroCSharp\switchVars\switchVars\obj\Debug\switchVars.pdb

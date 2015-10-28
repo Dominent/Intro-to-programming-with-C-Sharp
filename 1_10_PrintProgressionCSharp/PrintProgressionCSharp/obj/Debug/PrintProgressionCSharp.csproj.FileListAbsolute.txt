@@ -1,0 +1,5 @@
+B:\IntroCSharp\PrintProgressionCSharp\PrintProgressionCSharp\bin\Debug\PrintProgressionCSharp.exe.config
+B:\IntroCSharp\PrintProgressionCSharp\PrintProgressionCSharp\bin\Debug\PrintProgressionCSharp.exe
+B:\IntroCSharp\PrintProgressionCSharp\PrintProgressionCSharp\bin\Debug\PrintProgressionCSharp.pdb
+B:\IntroCSharp\PrintProgressionCSharp\PrintProgressionCSharp\obj\Debug\PrintProgressionCSharp.exe
+B:\IntroCSharp\PrintProgressionCSharp\PrintProgressionCSharp\obj\Debug\PrintProgressionCSharp.pdb

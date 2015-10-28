@@ -1,0 +1,5 @@
+B:\IntroCSharp\VarDivideModulus\VarDivideModulus\bin\Debug\VarDivideModulus.exe.config
+B:\IntroCSharp\VarDivideModulus\VarDivideModulus\bin\Debug\VarDivideModulus.exe
+B:\IntroCSharp\VarDivideModulus\VarDivideModulus\bin\Debug\VarDivideModulus.pdb
+B:\IntroCSharp\VarDivideModulus\VarDivideModulus\obj\Debug\VarDivideModulus.exe
+B:\IntroCSharp\VarDivideModulus\VarDivideModulus\obj\Debug\VarDivideModulus.pdb

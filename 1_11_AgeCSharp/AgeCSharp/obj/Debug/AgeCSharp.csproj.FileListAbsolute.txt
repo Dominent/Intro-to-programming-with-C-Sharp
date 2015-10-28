@@ -1,0 +1,9 @@
+B:\IntroCSharp\AgeCSharp\AgeCSharp\bin\Debug\AgeCSharp.exe.config
+B:\IntroCSharp\AgeCSharp\AgeCSharp\bin\Debug\AgeCSharp.exe
+B:\IntroCSharp\AgeCSharp\AgeCSharp\bin\Debug\AgeCSharp.pdb
+B:\IntroCSharp\AgeCSharp\AgeCSharp\obj\Debug\AgeCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\AgeCSharp\AgeCSharp\obj\Debug\AgeCSharp.exe
+B:\IntroCSharp\AgeCSharp\AgeCSharp\obj\Debug\AgeCSharp.pdb
+B:\IntroCSharp\1_11_AgeCSharp\AgeCSharp\bin\Debug\AgeCSharp.exe.config
+B:\IntroCSharp\1_11_AgeCSharp\AgeCSharp\obj\Debug\AgeCSharp.exe
+B:\IntroCSharp\1_11_AgeCSharp\AgeCSharp\obj\Debug\AgeCSharp.pdb
