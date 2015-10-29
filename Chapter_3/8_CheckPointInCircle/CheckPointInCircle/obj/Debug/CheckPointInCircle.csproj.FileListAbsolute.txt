@@ -1,0 +1,6 @@
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\bin\Debug\CheckPointInCircle.exe.config
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\bin\Debug\CheckPointInCircle.exe
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\bin\Debug\CheckPointInCircle.pdb
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\obj\Debug\CheckPointInCircle.exe
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\obj\Debug\CheckPointInCircle.pdb
+B:\IntroCSharp\CheckPointInCircle\CheckPointInCircle\obj\Debug\CheckPointInCircle.csprojResolveAssemblyReference.cache

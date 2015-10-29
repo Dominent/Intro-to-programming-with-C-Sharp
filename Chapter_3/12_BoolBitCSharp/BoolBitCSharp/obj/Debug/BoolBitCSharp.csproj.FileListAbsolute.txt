@@ -1,0 +1,6 @@
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\bin\Debug\BoolBitCSharp.exe.config
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\bin\Debug\BoolBitCSharp.exe
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\bin\Debug\BoolBitCSharp.pdb
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\obj\Debug\BoolBitCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\obj\Debug\BoolBitCSharp.exe
+B:\IntroCSharp\BoolBitCSharp\BoolBitCSharp\obj\Debug\BoolBitCSharp.pdb

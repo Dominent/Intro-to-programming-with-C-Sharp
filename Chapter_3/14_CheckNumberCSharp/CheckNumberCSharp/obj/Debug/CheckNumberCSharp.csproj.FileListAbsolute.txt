@@ -1,0 +1,6 @@
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\bin\Debug\CheckNumberCSharp.exe.config
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\bin\Debug\CheckNumberCSharp.exe
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\bin\Debug\CheckNumberCSharp.pdb
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\obj\Debug\CheckNumberCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\obj\Debug\CheckNumberCSharp.exe
+B:\IntroCSharp\CheckNumberCSharp\CheckNumberCSharp\obj\Debug\CheckNumberCSharp.pdb

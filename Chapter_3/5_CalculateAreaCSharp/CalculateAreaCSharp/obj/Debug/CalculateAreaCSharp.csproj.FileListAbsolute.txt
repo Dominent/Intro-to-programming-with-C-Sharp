@@ -1,0 +1,6 @@
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\bin\Debug\CalculateAreaCSharp.exe.config
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\bin\Debug\CalculateAreaCSharp.exe
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\bin\Debug\CalculateAreaCSharp.pdb
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\obj\Debug\CalculateAreaCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\obj\Debug\CalculateAreaCSharp.exe
+B:\IntroCSharp\CalculateAreaCSharp\CalculateAreaCSharp\obj\Debug\CalculateAreaCSharp.pdb

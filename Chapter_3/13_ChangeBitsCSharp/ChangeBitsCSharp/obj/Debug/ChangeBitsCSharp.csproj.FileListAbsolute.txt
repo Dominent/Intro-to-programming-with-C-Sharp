@@ -1,0 +1,6 @@
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\bin\Debug\ChangeBitsCSharp.exe.config
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\bin\Debug\ChangeBitsCSharp.exe
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\bin\Debug\ChangeBitsCSharp.pdb
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\obj\Debug\ChangeBitsCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\obj\Debug\ChangeBitsCSharp.exe
+B:\IntroCSharp\ChangeBitsCSharp\ChangeBitsCSharp\obj\Debug\ChangeBitsCSharp.pdb

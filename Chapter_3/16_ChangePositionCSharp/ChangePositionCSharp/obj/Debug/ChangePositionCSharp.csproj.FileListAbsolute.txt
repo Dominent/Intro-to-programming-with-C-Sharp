@@ -1,0 +1,6 @@
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\bin\Debug\ChangePositionCSharp.exe.config
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\bin\Debug\ChangePositionCSharp.exe
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\bin\Debug\ChangePositionCSharp.pdb
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\obj\Debug\ChangePositionCSharp.csprojResolveAssemblyReference.cache
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\obj\Debug\ChangePositionCSharp.exe
+B:\IntroCSharp\ChangePositionCSharp\ChangePositionCSharp\obj\Debug\ChangePositionCSharp.pdb

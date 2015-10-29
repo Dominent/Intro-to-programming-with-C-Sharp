@@ -1,0 +1,6 @@
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\bin\Debug\PrintBitCSharp.exe.config
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\bin\Debug\PrintBitCSharp.exe
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\bin\Debug\PrintBitCSharp.pdb
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\obj\Debug\PrintBitCSharp.exe
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\obj\Debug\PrintBitCSharp.pdb
+B:\IntroCSharp\PrintBitCSharp\PrintBitCSharp\obj\Debug\PrintBitCSharp.csprojResolveAssemblyReference.cache

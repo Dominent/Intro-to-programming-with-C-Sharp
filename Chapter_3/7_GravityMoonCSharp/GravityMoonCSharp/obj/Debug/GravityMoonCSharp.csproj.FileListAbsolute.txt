@@ -1,0 +1,5 @@
+B:\IntroCSharp\GravityMoonCSharp\GravityMoonCSharp\bin\Debug\GravityMoonCSharp.exe.config
+B:\IntroCSharp\GravityMoonCSharp\GravityMoonCSharp\bin\Debug\GravityMoonCSharp.exe
+B:\IntroCSharp\GravityMoonCSharp\GravityMoonCSharp\bin\Debug\GravityMoonCSharp.pdb
+B:\IntroCSharp\GravityMoonCSharp\GravityMoonCSharp\obj\Debug\GravityMoonCSharp.exe
+B:\IntroCSharp\GravityMoonCSharp\GravityMoonCSharp\obj\Debug\GravityMoonCSharp.pdb
